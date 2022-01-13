@@ -11,3 +11,4 @@ C:\Users\user\Desktop\C#\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompi
 C:\Users\user\Desktop\C#\test\test\obj\Debug\netcoreapp3.1\test.dll
 C:\Users\user\Desktop\C#\test\test\obj\Debug\netcoreapp3.1\test.pdb
 C:\Users\user\Desktop\C#\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\test\test\bin\Debug\netcoreapp3.1\App_Data\opendata109b141.csv
